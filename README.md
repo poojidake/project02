@@ -4,7 +4,7 @@ This web based restaurant application has been developed for the accomplishment 
 
 ***Project Link***- https://brave-beach-00568e900.3.azurestaticapps.net/
 
-***Project demo video Link*** - 
+***Project demo video Link*** - https://youtu.be/wrsgWPWD2oI
 
 #### AZURE TECHNOLOGIES USED FOR PROJECT
 -static web development
