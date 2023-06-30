@@ -33,8 +33,8 @@ Included the feedback Survey form to increase the scope of improvement
 
 
 ## Tech Stack 
-Azure(Hosting)
-HTML
-CSS
-Bootstrap
-JavaScript
+-Azure(Hosting)
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
